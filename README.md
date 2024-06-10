@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Pawar
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning to Java Enterprise Edition
+- 🌱 I’m currently learning Java Enterprise Edition
 - 💞️ I’m looking to collaborate on learning new features of Java programming
 - 📫 How to reach me - follow me on Github
 - 😄 Pronouns: He/Him
